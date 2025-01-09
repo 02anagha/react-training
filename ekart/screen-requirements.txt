@@ -1,0 +1,26 @@
+Components - 
+Header - icon, searchbar, userAccount, cart
+home page - items page 
+item detail page 
+login 
+register
+checkout
+orders
+cart 
+
+
+Reusable components - 
+button
+modal
+input
+
+
+db - 
+item list - id, name, price
+item detail - id, name, itemListId, detail, available by
+user - id, name, e-mail, phone no., address
+order - userId, status, itemId, quantity
+
+state mgm 
+context api
+redux
