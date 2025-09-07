@@ -14,7 +14,7 @@ class HomePage extends Component {
         <div className="listClass">
           This application contains the following features:
           <ul className="listClass">
-            <li> Login a user </li>
+            <li> Login as user </li>
             <li> Register a new user </li>
             <li> View all users </li>
           </ul>
